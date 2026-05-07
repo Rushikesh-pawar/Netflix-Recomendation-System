@@ -1,4 +1,4 @@
-# Netflix Recommendation System (NLP)
+# Netflix Recommendation System 
 
 A content-based recommender that suggests Netflix titles similar to a query
 title using **TF-IDF** vectorization and **cosine similarity** over a corpus
